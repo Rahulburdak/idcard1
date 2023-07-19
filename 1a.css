@@ -1,0 +1,12 @@
+h1{
+  font-size: 32px;
+}
+.id{
+  display: flex;
+  text-align: right;
+  justify-content: flex-end;
+  margin-top: 300px;
+}
+hr{
+ color: red;
+}
